@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://yuriko-ushikawa.github.io/static/css/main.bca82265.chunk.css",
-    "main.js": "https://yuriko-ushikawa.github.io/static/js/main.9e5df84a.chunk.js",
-    "main.js.map": "https://yuriko-ushikawa.github.io/static/js/main.9e5df84a.chunk.js.map",
+    "main.js": "https://yuriko-ushikawa.github.io/static/js/main.c8dbc8cd.chunk.js",
+    "main.js.map": "https://yuriko-ushikawa.github.io/static/js/main.c8dbc8cd.chunk.js.map",
     "runtime-main.js": "https://yuriko-ushikawa.github.io/static/js/runtime-main.12d47979.js",
     "runtime-main.js.map": "https://yuriko-ushikawa.github.io/static/js/runtime-main.12d47979.js.map",
     "static/css/2.4c97ca4f.chunk.css": "https://yuriko-ushikawa.github.io/static/css/2.4c97ca4f.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.02f1cca3.chunk.js",
     "static/css/main.bca82265.chunk.css",
-    "static/js/main.9e5df84a.chunk.js"
+    "static/js/main.c8dbc8cd.chunk.js"
   ]
 }
